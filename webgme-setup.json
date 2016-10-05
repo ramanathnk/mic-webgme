@@ -1,0 +1,12 @@
+{
+  "components": {
+    "seeds": {
+      "FaultTree": {
+        "src": "src/seeds/FaultTree"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {}
+  }
+}
