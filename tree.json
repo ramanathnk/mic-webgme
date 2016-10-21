@@ -1,0 +1,578 @@
+{
+    "name": "My new obj",
+    "isMeta": "",
+    "metaType": "",
+    "children": {
+        "1": {
+            "name": "FCO",
+            "isMeta": "true",
+            "metaType": "FCO",
+            "children": {}
+        },
+        "9": {
+            "name": "Gates",
+            "isMeta": "true",
+            "metaType": "Gates",
+            "children": {
+                "0": {
+                    "name": "Input 1",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "L": {
+                    "name": "Input 2",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "k": {
+                    "name": "Output",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                }
+            }
+        },
+        "kt": {
+            "name": "Event",
+            "isMeta": "true",
+            "metaType": "Event",
+            "children": {}
+        },
+        "Q": {
+            "name": "FCO_instance",
+            "isMeta": "false",
+            "metaType": "FCO",
+            "children": {}
+        },
+        "MB": {
+            "name": "Basic Causal Event ",
+            "isMeta": "true",
+            "metaType": "Basic Causal Event ",
+            "children": {}
+        },
+        "D2": {
+            "name": "Undeveloped Event",
+            "isMeta": "true",
+            "metaType": "Undeveloped Event",
+            "children": {}
+        },
+        "K": {
+            "name": "State",
+            "isMeta": "true",
+            "metaType": "State",
+            "children": {}
+        },
+        "b": {
+            "name": "Something",
+            "isMeta": "true",
+            "metaType": "Something",
+            "children": {}
+        },
+        "C": {
+            "name": "Something2  ",
+            "isMeta": "true",
+            "metaType": "Something2  ",
+            "children": {}
+        },
+        "f": {
+            "name": "Input 1",
+            "isMeta": "false",
+            "metaType": "FCO",
+            "children": {}
+        },
+        "i": {
+            "name": "Input 2",
+            "isMeta": "false",
+            "metaType": "FCO",
+            "children": {}
+        },
+        "J": {
+            "name": "Output",
+            "isMeta": "false",
+            "metaType": "FCO",
+            "children": {}
+        },
+        "y": {
+            "name": "OR",
+            "isMeta": "false",
+            "metaType": "FCO",
+            "children": {}
+        },
+        "x": {
+            "name": "And",
+            "isMeta": "true",
+            "metaType": "And",
+            "children": {
+                "0": {
+                    "name": "Input 1",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "L": {
+                    "name": "Input 2",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "k": {
+                    "name": "Output",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                }
+            }
+        },
+        "m": {
+            "name": "OR",
+            "isMeta": "true",
+            "metaType": "OR",
+            "children": {
+                "0": {
+                    "name": "Input 1",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "L": {
+                    "name": "Input 2",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "k": {
+                    "name": "Output",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                }
+            }
+        },
+        "e": {
+            "name": "NOT",
+            "isMeta": "false",
+            "metaType": "FCO",
+            "children": {
+                "I": {
+                    "name": "Output",
+                    "isMeta": "false",
+                    "metaType": "Output",
+                    "children": {}
+                },
+                "D": {
+                    "name": "Input1",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                }
+            }
+        },
+        "S": {
+            "name": "NOT",
+            "isMeta": "true",
+            "metaType": "NOT",
+            "children": {
+                "0": {
+                    "name": "Input 1",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "L": {
+                    "name": "Input 2",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                },
+                "k": {
+                    "name": "Output",
+                    "isMeta": "false",
+                    "metaType": "FCO",
+                    "children": {}
+                }
+            }
+        },
+        "G": {
+            "name": "Input Base",
+            "isMeta": "true",
+            "metaType": "Input Base",
+            "children": {}
+        },
+        "z": {
+            "name": "Input1",
+            "isMeta": "true",
+            "metaType": "Input1",
+            "children": {}
+        },
+        "E": {
+            "name": "Something1",
+            "isMeta": "true",
+            "metaType": "Something1",
+            "children": {}
+        },
+        "r": {
+            "name": "Input2",
+            "isMeta": "false",
+            "metaType": "Input1",
+            "children": {}
+        },
+        "q": {
+            "name": "Something1",
+            "isMeta": "false",
+            "metaType": "Something1",
+            "children": {},
+            "src": "Input1",
+            "dst": "Gates"
+        },
+        "B": {
+            "name": "Something1",
+            "isMeta": "false",
+            "metaType": "Something1",
+            "children": {},
+            "src": "Input2",
+            "dst": "Gates"
+        },
+        "W": {
+            "name": "Examples",
+            "isMeta": "true",
+            "metaType": "Examples",
+            "children": {}
+        },
+        "R": {
+            "name": "My new obj",
+            "isMeta": "false",
+            "metaType": "Examples",
+            "children": {
+                "0": {
+                    "name": "something",
+                    "isMeta": "false",
+                    "metaType": "something",
+                    "children": {},
+                    "src": "OR",
+                    "dst": "Regression Tests Failed or bad quality code"
+                },
+                "2": {
+                    "name": "Bad quality code",
+                    "isMeta": "false",
+                    "metaType": "Undeveloped Event",
+                    "children": {}
+                },
+                "3": {
+                    "name": "Something",
+                    "isMeta": "false",
+                    "metaType": "Something",
+                    "children": {},
+                    "src": "Minimum Code Coverage Failed For Tests",
+                    "dst": "Minimum coverage Input"
+                },
+                "5": {
+                    "name": "Unit tests Failed",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                },
+                "8": {
+                    "name": "Minimum Code Coverage Failed For Tests",
+                    "isMeta": "false",
+                    "metaType": "Basic Causal Event ",
+                    "children": {}
+                },
+                "D1": {
+                    "name": "Something2  ",
+                    "isMeta": "false",
+                    "metaType": "Something2  ",
+                    "children": {}
+                },
+                "es": {
+                    "name": "Regression Tests failed or bad code Input",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                },
+                "w": {
+                    "name": "Something1",
+                    "isMeta": "false",
+                    "metaType": "Something1",
+                    "children": {},
+                    "src": "Regression Tests failed or bad code Input",
+                    "dst": "And"
+                },
+                "h": {
+                    "name": "Minimum coverage Input",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                },
+                "g": {
+                    "name": "Something1",
+                    "isMeta": "false",
+                    "metaType": "Something1",
+                    "children": {},
+                    "src": "Minimum coverage Input",
+                    "dst": "OR"
+                },
+                "G": {
+                    "name": "Something",
+                    "isMeta": "false",
+                    "metaType": "Something",
+                    "children": {},
+                    "src": "Regression Tests failed or bad code event",
+                    "dst": "Regression Tests failed or bad code Input"
+                },
+                "Q": {
+                    "name": "Something1",
+                    "isMeta": "false",
+                    "metaType": "Something1",
+                    "children": {},
+                    "src": "Unit tests Failed",
+                    "dst": "OR"
+                },
+                "t": {
+                    "name": "Bad quality code",
+                    "isMeta": "false",
+                    "metaType": "Output",
+                    "children": {}
+                },
+                "q": {
+                    "name": "something",
+                    "isMeta": "false",
+                    "metaType": "something",
+                    "children": {},
+                    "src": "OR",
+                    "dst": "Bad quality code"
+                },
+                "R": {
+                    "name": "OR",
+                    "isMeta": "false",
+                    "metaType": "OR",
+                    "children": {
+                        "0": {
+                            "name": "Input 1",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        },
+                        "L": {
+                            "name": "Input 2",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        },
+                        "k": {
+                            "name": "Output",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        }
+                    }
+                },
+                "s": {
+                    "name": "OR",
+                    "isMeta": "false",
+                    "metaType": "OR",
+                    "children": {
+                        "0": {
+                            "name": "Input 1",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        },
+                        "L": {
+                            "name": "Input 2",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        },
+                        "k": {
+                            "name": "Output",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        }
+                    }
+                },
+                "S": {
+                    "name": "Regression Test Failed",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                },
+                "J": {
+                    "name": "Regression Tests Failed or bad quality code",
+                    "isMeta": "false",
+                    "metaType": "Output",
+                    "children": {}
+                },
+                "D": {
+                    "name": "QA sign off failed",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                },
+                "d": {
+                    "name": "And",
+                    "isMeta": "false",
+                    "metaType": "And",
+                    "children": {
+                        "0": {
+                            "name": "Input 1",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        },
+                        "L": {
+                            "name": "Input 2",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        },
+                        "k": {
+                            "name": "Output",
+                            "isMeta": "false",
+                            "metaType": "FCO",
+                            "children": {}
+                        }
+                    }
+                },
+                "i": {
+                    "name": "Something1",
+                    "isMeta": "false",
+                    "metaType": "Something1",
+                    "children": {},
+                    "src": "QA sign off failed",
+                    "dst": "And"
+                },
+                "X": {
+                    "name": "Unit Tests Failed",
+                    "isMeta": "false",
+                    "metaType": "Basic Causal Event ",
+                    "children": {}
+                },
+                "L": {
+                    "name": "Something",
+                    "isMeta": "false",
+                    "metaType": "Something",
+                    "children": {},
+                    "src": "Unit Tests Failed",
+                    "dst": "Unit tests Failed"
+                },
+                "f": {
+                    "name": "Regression Test Failure",
+                    "isMeta": "false",
+                    "metaType": "Basic Causal Event ",
+                    "children": {}
+                },
+                "Vg": {
+                    "name": "Something",
+                    "isMeta": "false",
+                    "metaType": "Something",
+                    "children": {},
+                    "src": "Regression Test Failure",
+                    "dst": "Regression Test Failed"
+                },
+                "W": {
+                    "name": "Bad Quality Code",
+                    "isMeta": "false",
+                    "metaType": "Input1",
+                    "children": {}
+                },
+                "C": {
+                    "name": "Something1",
+                    "isMeta": "false",
+                    "metaType": "Something1",
+                    "children": {},
+                    "src": "Bad Quality Code",
+                    "dst": "OR"
+                },
+                "k": {
+                    "name": "Something2  ",
+                    "isMeta": "false",
+                    "metaType": "Something2  ",
+                    "children": {}
+                },
+                "F": {
+                    "name": "Something",
+                    "isMeta": "false",
+                    "metaType": "Something",
+                    "children": {},
+                    "src": "Bad quality code",
+                    "dst": "Bad Quality Code"
+                },
+                "A": {
+                    "name": "Something1",
+                    "isMeta": "false",
+                    "metaType": "Something1",
+                    "children": {},
+                    "src": "Regression Test Failed",
+                    "dst": "OR"
+                },
+                "O": {
+                    "name": "QA sign off failed",
+                    "isMeta": "false",
+                    "metaType": "Basic Causal Event ",
+                    "children": {}
+                },
+                "j": {
+                    "name": "Something",
+                    "isMeta": "false",
+                    "metaType": "Something",
+                    "children": {},
+                    "src": "QA sign off failed",
+                    "dst": "QA sign off failed"
+                },
+                "V": {
+                    "name": "Deployment Permission Failure",
+                    "isMeta": "false",
+                    "metaType": "Undeveloped Event",
+                    "children": {}
+                },
+                "K": {
+                    "name": "Deployment Failure",
+                    "isMeta": "false",
+                    "metaType": "Output",
+                    "children": {}
+                },
+                "r": {
+                    "name": "something",
+                    "isMeta": "false",
+                    "metaType": "something",
+                    "children": {},
+                    "src": "And",
+                    "dst": "Deployment Failure"
+                },
+                "E": {
+                    "name": "Something2  ",
+                    "isMeta": "false",
+                    "metaType": "Something2  ",
+                    "children": {}
+                },
+                "Y": {
+                    "name": "Regression Tests failed or bad code event",
+                    "isMeta": "false",
+                    "metaType": "Undeveloped Event",
+                    "children": {}
+                }
+            }
+        },
+        "a": {
+            "name": "OutputBase",
+            "isMeta": "true",
+            "metaType": "OutputBase",
+            "children": {}
+        },
+        "V": {
+            "name": "Output",
+            "isMeta": "true",
+            "metaType": "Output",
+            "children": {}
+        },
+        "g": {
+            "name": "something",
+            "isMeta": "true",
+            "metaType": "something",
+            "children": {}
+        }
+    }
+}

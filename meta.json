@@ -1,0 +1,110 @@
+[
+    {
+        "name": "FCO",
+        "path": "/1",
+        "noOfChildren": 0,
+        "base": "null"
+    },
+    {
+        "name": "Gates",
+        "path": "/9",
+        "noOfChildren": 3,
+        "base": "FCO"
+    },
+    {
+        "name": "Something2  ",
+        "path": "/C",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "Undeveloped Event",
+        "path": "/D2",
+        "noOfChildren": 0,
+        "base": "Event"
+    },
+    {
+        "name": "Something1",
+        "path": "/E",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "Input Base",
+        "path": "/G",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "State",
+        "path": "/K",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "Basic Causal Event ",
+        "path": "/MB",
+        "noOfChildren": 0,
+        "base": "Event"
+    },
+    {
+        "name": "NOT",
+        "path": "/S",
+        "noOfChildren": 3,
+        "base": "Gates"
+    },
+    {
+        "name": "Output",
+        "path": "/V",
+        "noOfChildren": 0,
+        "base": "OutputBase"
+    },
+    {
+        "name": "Examples",
+        "path": "/W",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "OutputBase",
+        "path": "/a",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "Something",
+        "path": "/b",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "something",
+        "path": "/g",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "Event",
+        "path": "/kt",
+        "noOfChildren": 0,
+        "base": "FCO"
+    },
+    {
+        "name": "OR",
+        "path": "/m",
+        "noOfChildren": 3,
+        "base": "Gates"
+    },
+    {
+        "name": "And",
+        "path": "/x",
+        "noOfChildren": 3,
+        "base": "Gates"
+    },
+    {
+        "name": "Input1",
+        "path": "/z",
+        "noOfChildren": 0,
+        "base": "Input Base"
+    }
+]
